@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/horscope/static/css/main.9b6391a1.css",
+    "main.js": "/horscope/static/js/main.9cc63766.js",
+    "static/js/787.0e31295a.chunk.js": "/horscope/static/js/787.0e31295a.chunk.js",
+    "static/media/logo.png": "/horscope/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "/horscope/index.html",
+    "main.9b6391a1.css.map": "/horscope/static/css/main.9b6391a1.css.map",
+    "main.9cc63766.js.map": "/horscope/static/js/main.9cc63766.js.map",
+    "787.0e31295a.chunk.js.map": "/horscope/static/js/787.0e31295a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b6391a1.css",
+    "static/js/main.9cc63766.js"
+  ]
+}
